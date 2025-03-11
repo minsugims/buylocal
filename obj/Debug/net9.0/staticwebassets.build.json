@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yJy5WPk6RNwCdxPQJyQRP6556oRSF5A4GDwUR2u8GAY=",
+  "Source": "BuyLocalApp",
+  "BasePath": "_content/BuyLocalApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
