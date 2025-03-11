@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuyLocalApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ba81f9b16f9b2ac3bc117215fa6092dd64fddd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f632bca002da1d59837cb3407bf5499e4d334d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuyLocalApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuyLocalApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
