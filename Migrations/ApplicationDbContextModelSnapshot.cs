@@ -42,6 +42,10 @@ namespace BuyLocalApp.Migrations
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("boolean");
 
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("boolean");
 
@@ -72,12 +76,9 @@ namespace BuyLocalApp.Migrations
                         .HasColumnType("boolean");
 
                     b.Property<string>("UserName")
+                        .IsRequired()
                         .HasMaxLength(256)
                         .HasColumnType("character varying(256)");
-
-                    b.Property<string>("Username")
-                        .IsRequired()
-                        .HasColumnType("text");
 
                     b.HasKey("Id");
 
